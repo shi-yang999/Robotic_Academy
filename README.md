@@ -10,7 +10,7 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 ## The Top
 +  Sciernce Robotics
 
-    - This journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
+    -This journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
   
 +  International Journal of Robotics Research
 
