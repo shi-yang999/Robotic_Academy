@@ -24,3 +24,7 @@ This is an essay about the newest academic journals and meetings. I have seem ma
   
   Top magazine devotes to software and flexible rebotics.
 
++ IEEE/ASME Transactions on Mechatronics--T-Mech
+
+  
+
