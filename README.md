@@ -10,8 +10,14 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 ## The Top
 +  Sciernce Robotics
 
-          -This journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
+  -Top journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
   
-+  International Journal of Robotics Research
-  - This  
++  International Journal of Robotics Research--IJRR
+  -Top journal focuses on superior quality for robotic investigations and knows for important contributions to robotics.
+
++ IEEE Trarnsactiorns orn Robotics--TRO
+  -Top journal concentrates on extensive robotic researche and robotic application.
+
++ Soft Robotics--SRI
+  -Top magazine devotes to software and flexible rebotics.
 
