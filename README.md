@@ -29,5 +29,6 @@ This is an essay about the newest academic journals and meetings. I have seem ma
   Top publication in the mechatronics field with lots of robotics hardware design and control related jobs.
 
 + IEEE Robotics and Automation Letters--RA-L
+  
   Since its inception on June 1, 2015, the journal has been favored by many academic experts in the field of robotics. Because of its        short cycle and high quality of papers, many outstanding results will be published in the RAL journal.
 
