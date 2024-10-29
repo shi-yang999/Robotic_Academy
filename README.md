@@ -30,5 +30,18 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 
 + IEEE Robotics and Automation Letters--RA-L
   
-  Since its inception on June 1, 2015, the journal has been favored by many academic experts in the field of robotics. Because of its        short cycle and high quality of papers, many outstanding results will be published in the RAL journal.
+  Since its inception on June 1, 2015, the journal has been favored by many academic experts in the field of robotics. Because of its short cycle and high quality of papers, many outstanding results will be published in the RAL journal.
 
++ Robotics And Autonomous Systems--RAS
+  
+  Mainly publishes research papers related to robotics and autonomous systems. The journal covers areas such as robotics, automation technology, and applications of artificial intelligence in autonomous systems.
+
++ Journal Of Field Robotics--JFR
+
+  Focuses on publishing new research in the field of robotics-engineering technology, aiming to promote and disseminate new technologies and knowledge related to this field.
+
++ Autonomous Robots--AuRo
+
+  Autonomous Robots reports on the theory and applications of robotic systems capable of some degree of self-sufficiency.
+  
+  
