@@ -7,7 +7,7 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 +  Welcome to receive your suggestions! :hear_no_evil: 
 
 # Journal
-## The Top
+## Illustrious
 + Sciernce Robotics
 
   Top journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
@@ -43,5 +43,7 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 + Autonomous Robots--AuRo
 
   Autonomous Robots reports on the theory and applications of robotic systems capable of some degree of self-sufficiency.
+
+# Conference
   
   
