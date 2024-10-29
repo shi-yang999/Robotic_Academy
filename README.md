@@ -8,7 +8,7 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 
 # Illustrious Journal
 
-+ [Science Robotics](Reference/IJRR_IF_P.png) (IF=26.1,SCI-Q1,CAS-一区)
++ [Science Robotics](Renferences/IJRR_IF_P.png) (IF=26.1,SCI-Q1,CAS-一区)
 
   Top journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
   
