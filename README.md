@@ -26,5 +26,7 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 
 + IEEE/ASME Transactions on Mechatronics--T-Mech
 
-  
+  Top publication in the mechatronics field with lots of robotics hardware design and control related jobs.
+
++IEEE Robotics and Automation Letters--RA-L
 
