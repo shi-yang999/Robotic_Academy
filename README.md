@@ -8,39 +8,39 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 
 # Illustrious Journal
 
-+ Sciernce Robotics
++ Science Robotics (IF=26.1,SCI-Q1,CAS-一区)
 
   Top journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
   
-+ International Journal of Robotics Research--IJRR
++ International Journal of Robotics Research--IJRR (IF=7.5,SCI-Q1,CAS-一区)
   
   Top journal focuses on superior quality for robotic investigations and knows for important contributions to robotics.
 
-+ IEEE Trarnsactiorns orn Robotics--TRO
++ IEEE Transactions on Robotics--TRO (IF=9.4,SCI-Q1,CAS-一区)
   
   Top journal concentrates on extensive robotic researche and robotic application.
-
-+ Soft Robotics--SRI
   
-  Top magazine devotes to software and flexible rebotics.
-
-+ IEEE/ASME Transactions on Mechatronics--T-Mech
++ IEEE/ASME Transactions on Mechatronics--T-Mech (IF=6.1,SCI-Q1,CAS-一区)
 
   Top publication in the mechatronics field with lots of robotics hardware design and control related jobs.
 
-+ IEEE Robotics and Automation Letters--RA-L
++ Soft Robotics--SRI (IF=6.4,SCI-Q1,CAS-二区)
+  
+  Top magazine devotes to software and flexible rebotics.
+
++ IEEE Robotics and Automation Letters--RA-L (IF=4.6,SCI-Q2,CAS-二区)
   
   Since its inception on June 1, 2015, the journal has been favored by many academic experts in the field of robotics. Because of its short cycle and high quality of papers, many outstanding results will be published in the RAL journal.
 
-+ Robotics And Autonomous Systems--RAS
++ Robotics And Autonomous Systems--RAS (IF=4.3,SCI-Q2,CAS-二区)
   
   Mainly publishes research papers related to robotics and autonomous systems. The journal covers areas such as robotics, automation technology, and applications of artificial intelligence in autonomous systems.
 
-+ Journal Of Field Robotics--JFR
++ Journal Of Field Robotics--JFR (IF=4.2,SCI-Q1,CAS-二区)
 
   Focuses on publishing new research in the field of robotics-engineering technology, aiming to promote and disseminate new technologies and knowledge related to this field.
 
-+ Autonomous Robots--AuRo
++ Autonomous Robots--AuRo (IF=3.7,SCI-Q2,CAS-三区)
 
   Autonomous Robots reports on the theory and applications of robotic systems capable of some degree of self-sufficiency.
 
