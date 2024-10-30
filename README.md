@@ -8,39 +8,39 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 
 # Illustrious Journal
 
-+ [Science Robotics](Renferences/Science_robotics_IF_P.png) (IF=26.1,SCI-Q1,CAS-一区)
++ [Science Robotics](References/Science_robotics_IF_P.png) (IF=26.1,SCI-Q1,CAS-一区)
 
   Top journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
   
-+ [International Journal of Robotics Research](Renferences/IJRR_IF_P.png)--IJRR (IF=7.5,SCI-Q1,CAS-一区)
++ [International Journal of Robotics Research](References/IJRR_IF_P.png)--IJRR (IF=7.5,SCI-Q1,CAS-一区)
   
   Top journal focuses on superior quality for robotic investigations and knows for important contributions to robotics.
 
-+ [IEEE Transactions on Robotics](Renferences/TRO_IF_P.png)--TRO (IF=9.4,SCI-Q1,CAS-一区)
++ [IEEE Transactions on Robotics](References/TRO_IF_P.png)--TRO (IF=9.4,SCI-Q1,CAS-一区)
   
   Top journal concentrates on extensive robotic researche and robotic application.
   
-+ [IEEE/ASME Transactions on Mechatronics](Renferences/Tmech_IF_P.png)--T-Mech (IF=6.1,SCI-Q1,CAS-一区)
++ [IEEE/ASME Transactions on Mechatronics](References/Tmech_IF_P.png)--T-Mech (IF=6.1,SCI-Q1,CAS-一区)
 
   Top publication in the mechatronics field with lots of robotics hardware design and control related jobs.
 
-+ [Soft Robotics](Renferences/SRI_IF_P.png)--SRI (IF=6.4,SCI-Q1,CAS-二区)
++ [Soft Robotics](References/SRI_IF_P.png)--SRI (IF=6.4,SCI-Q1,CAS-二区)
   
   Top magazine devotes to software and flexible rebotics.
 
-+ [IEEE Robotics and Automation Letters](Renferences/RAL_IF_P.png)--RA-L (IF=4.6,SCI-Q2,CAS-二区)
++ [IEEE Robotics and Automation Letters](References/RAL_IF_P.png)--RA-L (IF=4.6,SCI-Q2,CAS-二区)
   
   Since its inception on June 1, 2015, the journal has been favored by many academic experts in the field of robotics. Because of its short cycle and high quality of papers, many outstanding results will be published in the RAL journal.
 
-+ [Robotics And Autonomous Systems](Renferences/RAS_IF_P.png)--RAS (IF=4.3,SCI-Q2,CAS-二区)
++ [Robotics And Autonomous Systems](References/RAS_IF_P.png)--RAS (IF=4.3,SCI-Q2,CAS-二区)
   
   Mainly publishes research papers related to robotics and autonomous systems. The journal covers areas such as robotics, automation technology, and applications of artificial intelligence in autonomous systems.
 
-+ [Journal Of Field Robotics](Renferences/JFR_IF_P.png)--JFR (IF=4.2,SCI-Q1,CAS-二区)
++ [Journal Of Field Robotics](References/JFR_IF_P.png)--JFR (IF=4.2,SCI-Q1,CAS-二区)
 
   Focuses on publishing new research in the field of robotics-engineering technology, aiming to promote and disseminate new technologies and knowledge related to this field.
 
-+ [Autonomous Robots](Renferences/AuRo_IF_P.png)--AuRo (IF=3.7,SCI-Q2,CAS-三区)
++ [Autonomous Robots](References/AuRo_IF_P.png)--AuRo (IF=3.7,SCI-Q2,CAS-三区)
 
   Autonomous Robots reports on the theory and applications of robotic systems capable of some degree of self-sufficiency.
 
