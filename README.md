@@ -12,7 +12,7 @@ This is an essay about the newest academic journals and meetings. I have seem ma
 
   Top journal Belongs to the "Science" series, focusing on cutting-edge robotics technology and innovative research.
 
-+ [Nature Machine Intelligence](References/Nature_machine_intelligence_IF_P) (IF=18.8,SCI-Q1,CAS-一区)
++ [Nature Machine Intelligence](References/Nature_machine_intelligence_IF_P.png) (IF=18.8,SCI-Q1,CAS-一区)
 
   Nature Machine Intelligence will publish high-quality original research and reviews in a wide range of topics in machine learning, robotics and AI. The journal will also explore and discuss the significant impact that these fields are beginning to have on other scientific disciplines as well as many aspects of society and industry.
   
